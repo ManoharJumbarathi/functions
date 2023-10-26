@@ -5,15 +5,15 @@ message = "hi, how are you?"
 print(message.capitalize())
 
 #title
-name = "manohar jumbarathi"
+name = "manohar jumbarathi10"
 print(name.title())
 
 #upper
-name = "manohar jumbarathi"
+name = "manohar jumbarathi10"
 print(name.upper())
 
 #lower
-name = "MANOHAR JUMBARATHI"
+name = "MANOHAR JUMBARATHI10"
 print(name.lower())
 
 #casefold
@@ -21,10 +21,10 @@ name = "MANOHAR JUMBARATHI@10"
 print(name.casefold())
 
 #swapcase
-name = "MANOHAR JUMBARATHI"
+name = "MANOHAR JUMBARATHI10"
 print(name.swapcase())
 
-name = "manohar jumbarathi"
+name = "manohar jumbarathi10"
 print(name.swapcase())
 
 #string check functions
@@ -48,11 +48,11 @@ a = "G4G"
 print(a.isascii())
 
 #isupper
-a = "MANOHAR JUMBARATHI"
+a = "MANOHAR JUMBARATHI10"
 print(a.isupper())
 
 #islower
-a = "manoharjumbarathi"
+a = "manoharjumbarathi10"
 print(a.islower())
 
 #isspace
@@ -63,7 +63,7 @@ b = "prasad"
 print(b.isspace())
 
 #isidentifier
-a = "manohar jumbarathi"
+a = "manohar jumbarathi10"
 print(a.isidentifier())
 
 #isprintable
@@ -75,7 +75,7 @@ a = "Hello, Welcome!"
 print(a.istitle())
 
 #string len function
-name = "manohar jumbarathi"
+name = "manohar jumbarathi10"
 print(len(name))
 
 #string search functions
